@@ -1,0 +1,20 @@
+Programming Pearl
+Clean Code Series
+The Art of Computer Programming
+Introduction to Algorithm
+New Programmer's Survival Manual
+Grokking Algorithm
+The Pragmatic Programmer
+Head First Design Pattern
+Ruby. Object-Oriented Design
+Code Complete
+Function programming in C#
+Effective C++: Improve Design
+Reusable Objects Oriented Software
+TypeScript Deep Drive
+Python Test-Based Development
+Designing Data-Intensive Application
+If Hemingway wrote Javascript
+The Mythical Man-month
+Laws of Simplicity
+Coders at Work
